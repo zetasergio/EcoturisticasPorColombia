@@ -1,3 +1,73 @@
 <resources>
     <string name="app_name">RutasEcoturisticas</string>
+    
+    <string-array name="departamentos">
+        <item>DEPARTAMENTOS</item>
+        <item>AMAZONAS</item>
+        <item>ANTIOQUIA</item>
+        <item>ARAUCA</item>
+        <item>ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA</item>
+        <item>ATLÁNTICO</item>
+        <item>BOGOTÁ, D.C.</item>
+        <item>BOLÍVAR</item>
+        <item>BOYACÁ</item>
+        <item>CALDAS</item>
+        <item>CAQUETÁ</item>
+        <item>CASANARE</item>
+        <item>CAUCA</item>
+        <item>CESAR</item>
+        <item>CHOCÓ</item>
+        <item>CÓRDOBA</item>
+        <item>CUNDINAMARCA</item>
+        <item>GUAINÍA</item>
+        <item>GUAVIARE</item>
+        <item>HUILA</item>
+        <item>LA GUAJIRA</item>
+        <item>MAGDALENA</item>
+        <item>META</item>
+        <item>NARIÑO</item>
+        <item>NORTE DE SANTANDER</item>
+        <item>PUTUMAYO</item>
+        <item>QUINDIO</item>
+        <item>RISARALDA</item>
+        <item>SANTANDER</item>
+        <item>SUCRE</item>
+        <item>TOLIMA</item>
+        <item>VALLE DEL CAUCA</item>
+        <item>VAUPÉS</item>
+        <item>VICHADA</item>
+    </string-array>
+
+    <string-array name="categorias">
+        <item>CATEGORIAS</item>
+        <item>AGROTURISMO </item>
+        <item>AVENTURA </item>
+        <item>COSTUMBRES Y TRADICIONES </item>
+        <item>CULTURAL </item>
+        <item>ARQUITECTURA POPULAR </item>
+        <item>AVENTURA </item>
+        <item>COMPRAS</item>
+        <item>FAMILIARIZACIÓN </item>
+        <item>MONTAÑA </item>
+        <item>DEPORTIVO </item>
+        <item>ECOLÓGICO </item>
+        <item>ÉTNICO </item>
+        <item>FAMILIAR </item>
+        <item>FLUVIAL </item>
+        <item>GASTRONÓMICO </item>
+        <item>HISTÓRICO </item>
+        <item>INDUSTRIAL </item>
+        <item>JUVENIL </item>
+        <item>LÚDICO-FESTIVO </item>
+        <item>NEGOCIOS </item>
+        <item>RELIGIOSO </item>
+        <item>RESIDENCIAL</item>
+        <item>RURAL </item>
+        <item>SOCIAL </item>
+        <item>SOL Y PLAYA </item>
+        <item>TERCERA EDAD </item>
+        <item>TERMAL </item>
+        <item>VERDE </item>
+    </string-array>
+    
 </resources>
